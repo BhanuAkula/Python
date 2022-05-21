@@ -1,0 +1,25 @@
+2022-01-04 21:59:16 weka.gui.GUIChooser main
+INFO: Logging started
+---Registering Weka Editors---
+Trying to add database driver (JDBC): RmiJdbc.RJDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): jdbc.idbDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): org.gjt.mm.mysql.Driver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): com.mckoi.JDBCDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): org.hsqldb.jdbcDriver - Error, not in CLASSPATH?
+2022-01-04 21:59:23 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2022-01-04 21:59:23 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2011 The University of Waikato, Hamilton, New Zealand
+2022-01-04 21:59:23 weka.gui.explorer.Explorer <init>
+INFO: web: http://www.cs.waikato.ac.nz/~ml/weka/
+2022-01-04 21:59:23 weka.gui.explorer.Explorer <init>
+INFO: Started on Tuesday, 4 January 2022
+2022-01-04 22:00:52 weka.gui.explorer.ClassifierPanel$16 run
+INFO: Started weka.classifiers.functions.LibSVM
+2022-01-04 22:00:52 weka.gui.explorer.ClassifierPanel$16 run
+INFO: Command:weka.classifiers.functions.LibSVM -S 0 -K 1 -D 3 -G 0.01 -R 0.0 -N 0.5 -M 40.0 -C 100000.0 -E 0.001 -P 0.1
+.*.*2022-01-04 22:01:00 weka.gui.explorer.ClassifierPanel$16 run
+INFO: Finished weka.classifiers.functions.LibSVM
+Warning : data contains more attributes than can be displayed as attribute bars.
+2022-01-04 22:01:00 weka.gui.visualize.VisualizePanel$PlotPanel addPlot
+INFO: Warning : data contains more attributes than can be displayed as attribute bars.
